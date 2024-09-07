@@ -3,10 +3,10 @@
 <p align="center">
   <img src=""  height="400">
 <p align="center">
-
+ 
 ## Índice
 
-1. [Descripción](#descripción)
+1. [Contexto](#contexto)
 2. [Características](#características)
 3. [Requisitos](#requisitos)
 4. [Instalación](#instalación)
@@ -16,18 +16,32 @@
 8. [Colaboradores](#colaboradores)
 9. [Tecnologías](#tecnologías)
 
-## Descripción
+## Contexto
 
-El proyecto Análisis de Ocupación de Vuelos tiene como finalidad ayudar a las aerolíneas a optimizar la ocupación de sus vuelos, mejorando así la rentabilidad y la experiencia del pasajero. Dado que la ocupación afecta directamente los costos operativos, el análisis se enfoca en utilizar datos históricos para identificar tendencias y patrones que permitan a las aerolíneas tomar decisiones informadas sobre rutas, asignación de aeronaves y frecuencia de vuelos.
+El proyecto de "Análisis de Ocupación de Vuelos" tiene como finalidad ayudar a las aerolíneas a optimizar la ocupación de sus vuelos, mejorando así la rentabilidad y la experiencia del pasajero. La ocupación de los vuelos es un factor critico que impacta directamente en la rentabilidad de las aerolineas. Con la creciente presion para optimizar costos y maximizar la eficiencia, las aerolineas buscan comprender como afecta la ocupacion de sus vuelos y competir en un entorno desafiante, donde la eficiencia operativa y la satisfaccion del cliente son cruciales para mantenerse competitivas.
 
-Además, se busca ofrecer herramientas avanzadas de visualización y análisis para que las aerolíneas puedan mejorar su competitividad en un contexto post-pandemia, donde la fluctuación de la demanda es significativa​
-## Características
+Actualmente las aerolineas necesitan herramientas mas sofisticadas para analizar y predecir la ocupacion de sus vuelos, asi como para tomar decisiones informadas sobre rutas y flotas. 
 
-- Análisis temporal 
-- Visualización de tendencias .
-- Seguimiento de.
-- Comparación entre diferentes regiones.
-- Predicciones y modelado de datos.
+El objetivo es desarrollar un analisis detallado de la tasa de ocupacion de los vuelos a lo largo del tiempo, esto permitira identificar tendencias y patrones, asi como optimizar la asignacion de recursos. Integrara un analisis avanzado con la visualizacion de datos proporcionando un enfoque mas dinamico y adaptable.
+
+Proporcionara a las aerolineas insights valiosos  sobre la efeciencia de sus operaciones y les  permitira ajustar sus estrategias para ser mas competitivas en el mercado.
+
+
+## Fuentes de datos
+
+- Se trabajara con un dataset denominado Travel.sqlite, extraida desde la url:https://www.kaggle.com/datasets/saadharoon27/airlines-dataset?resource=download.
+- La extension del archivo es .sqlite
+- Se utilizaran las siguientes tablas:
+  Aircrafts_data: Contiene detalles sobre las aeronaves utilizadas.
+  Airports_data: Proporciona información sobre los aeropuertos.
+  Boarding_passes:  Contiene información relacionada con los pases de abordar de los pasajeros.
+  Bookings: Estos datos provienen del sistema de reservas de pasajeros y reflejan las tendencias de demanda y las decisiones de los consumidores.
+  Flights: proporciona información sobre cada vuelo realizado.
+  Seats: Contiene información sobre la configuración de asientos en cada aeronave.
+  Ticket_flights: Registra todos los tickets vendidos para cada vuelo.
+  Tickets: Contiene la información de los tickets emitidos.
+
+
 
 ## Requisitos
 
@@ -36,7 +50,10 @@ Además, se busca ofrecer herramientas avanzadas de visualización y análisis p
 - matplotlib
 - seaborn
 - numpy
-- jupyter 
+- jupyter
+- Scikit-Learn
+- SQL
+- Power Bi
 
 ## Instalación
 
