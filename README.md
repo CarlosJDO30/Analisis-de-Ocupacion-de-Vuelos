@@ -106,11 +106,11 @@ Deploy:
 |                               |
 | <img width="60" height="60" src="" alt="Belkys" /> | Belkys Dellamea | Data Analyst | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Beldell) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin)                         |
 |                               |
-| <img width="60" height="60" src="" alt="Carlos" /> | Carlos | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/CarlosJDO30o) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)                         |
+| <img width="60" height="60" src="" alt="Carlos" /> | Carlos | Data Analyst | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/CarlosJDO30o) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)                         |
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/100136957?v=4" alt="Fabrizio" /> | Fabrizio Flamini | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/FlamInIFabrIzIo) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabrizioflamini/)                         |
 |                               |
-| <img width="60" height="60" src="" alt="Ignacio" /> | Ignacio Cardetti | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/C4rde) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin/)                         |
+| <img width="60" height="60" src="" alt="Ignacio" /> | Ignacio Cardetti | Data Analyst | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/C4rde) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin/)                         |
 |                               |
 
 
