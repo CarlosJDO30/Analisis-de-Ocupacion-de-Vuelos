@@ -50,7 +50,7 @@ Además, se busca ofrecer herramientas avanzadas de visualización y análisis p
 
 ## Estructura del Proyecto
 
-- Viralyze/
+- Airlines/
 - │
 - ├── data/                    # Directorio para los datos procesados.
 - ├── images/                  # Imagenes del readme.
