@@ -1,1 +1,9 @@
 
+Cantidad de registros nuevos añadidos a aircrafts_data: 9.
+Cantidad de registros nuevos añadidos a airports_data: 104.
+Cantidad de registros nuevos añadidos a bookings: 262788.
+Cantidad de registros nuevos añadidos a flights: 33121.
+Cantidad de registros nuevos añadidos a seats: 1339.
+Cantidad de registros nuevos añadidos a tickets: 366733.
+Cantidad de registros nuevos añadidos a boarding_passes: 579686.
+Cantidad de registros nuevos añadidos a ticket_flights: 1045726.
