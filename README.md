@@ -108,7 +108,7 @@ Deploy:
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/172613448?v=4" alt="Belkys" /> | Belkys Dellamea | Data Analyst | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Beldell) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/belkys-dellamea/)                         |
 |                               |
-| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/180718515?v=4" alt="Carlos" /> | Carlos | Data Analyst | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/CarlosJDO30) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carlosdeleono/)                         |
+| <img width="60" height="60" src="https://media.licdn.com/dms/image/v2/D4E03AQEAUyLs2FJGbg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727130159103?e=1733961600&v=beta&t=AY09T0lSdBOU_He8QAYAFrV5pptWx8QqTPYuopQP6aQ" alt="Carlos" /> | Carlos | Data Analyst | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/CarlosJDO30) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carlosdeleono/)                         |
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/100136957?v=4" alt="Fabrizio" /> | Fabrizio Flamini | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/FlamInIFabrIzIo) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabrizioflamini/)                         |
 |                               |
