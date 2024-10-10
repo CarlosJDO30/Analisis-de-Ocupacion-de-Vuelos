@@ -112,7 +112,7 @@ Deploy:
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/100136957?v=4" alt="Fabrizio" /> | Fabrizio Flamini | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/FlamInIFabrIzIo) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabrizioflamini/)                         |
 |                               |
-| <img width="60" height="60" src="" alt="Ignacio" /> | Ignacio Cardetti | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/C4rde) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ignaciocardetti/)                         |
+| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/110742473?v=4" alt="Ignacio" /> | Ignacio Cardetti | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/C4rde) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ignaciocardetti/)                         |
 |                               |
 
 
