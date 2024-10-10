@@ -79,7 +79,7 @@ Proporcionara a las aerolineas insights valiosos  sobre la efeciencia de sus ope
 
 ## Enlaces
 
-Dashboard: 
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNTEzM2M3MjQtNDE2ZS00OTc2LTk5ZDEtZDg1OWUyZmRjZmIwIiwidCI6Ijk4YjVlNzlkLWEwODYtNGU3OC04NDUxLTgxMmE3MGM0NWRlNyIsImMiOjR9&pageName=ee96d4157dfda6adb7a8
 
 Deploy: 
 
