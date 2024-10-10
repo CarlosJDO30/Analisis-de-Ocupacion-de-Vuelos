@@ -92,9 +92,9 @@ Deploy:
 ## Reportes - Power BI
 
 <p align="center">
-  <img src="images/"  height="400">
-  <img src="images/"  height="400">
-  <img src="images/"  height="400">
+  <img src="images/reporte1.jpg"  height="400">
+  <img src="images/reporte2.jpg"  height="400">
+  <img src="images/reporte3.jpg"  height="400">
 <p align="center">
 
 ## Colaboradores
