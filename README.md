@@ -1,7 +1,7 @@
 # <h1 align="center">_Análisis de Ocupación de Vuelos_</h1>
 
 <p align="center">
-  <img src=""  height="400">
+  <img src="images/portada.jpg"  height="400">
 <p align="center">
  
 ## Índice
@@ -72,7 +72,6 @@ Proporcionara a las aerolineas insights valiosos  sobre la efeciencia de sus ope
 - ├── data/                    # Directorio para los datos procesados.
 - ├── images/                  # Imagenes del readme.
 - ├── Notebooks/               # Jupyter Notebooks para análisis exploratorio y Machine .Learning
-- ├── .gitignore               # configuracion de archivos ignorados.
 - ├── app.py                   # Archivo de aplicación del deploy en Streamlit.
 - ├── README.md                # Este archivo README.
 - ├── requirements.txt         # Archivo de requisitos.
