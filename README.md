@@ -1,24 +1,6 @@
-<h1 align="center" style="color: #0d1117; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
+<h1 align="center" style="font-size: 3.5em; color: #0d1117; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
   EcoData_
 </h1>
-
-<style>
-  h1 {
-    font-size: 5vw; /* El tamaño se ajusta al 5% del ancho de la ventana */
-  }
-
-  @media (min-width: 768px) {
-    h1 {
-      font-size: 3em; /* Tamaño fijo en pantallas medianas en adelante */
-    }
-  }
-
-  @media (min-width: 1200px) {
-    h1 {
-      font-size: 3.5em; /* Un poco más grande en pantallas grandes */
-    }
-  }
-</style>
 
 
 <p align="center">
