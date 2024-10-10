@@ -1,4 +1,7 @@
-# <h1 align="center">_Análisis de Ocupación de Vuelos_</h1>
+<h1 align="center" style="font-size: 3em; color: #1a73e8; font-family: Arial, sans-serif; font-weight: bold; letter-spacing: 1.5px;">
+    EcoData_
+</h1>
+
 
 <p align="center">
   <img src="images/portada.jpg"  height="400">
